@@ -1,2 +1,0 @@
-# Devsig-Technologies
-Software Company
