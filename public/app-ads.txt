@@ -1,4 +1,8 @@
+// google
 google.com, pub-5183108655551385, DIRECT, f08c47fec0942fa0
+
+// facebook
+facebook.com, 2131000157243711, DIRECT, c3e20eee3f780d68
 
 // applovin
 applovin.com, 67a6f52ea09f9d9370fc3f2f29007f40, DIRECT
