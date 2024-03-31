@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.vigil.pro",
+      "sha256_cert_fingerprints": [
+        "32:E3:4E:C3:49:79:A3:7E:AF:B7:CE:33:29:F3:57:67:A7:68:BC:F8:4F:63:03:C7:CB:36:05:96:E5:5D:E1:8F"
+      ]
+    }
+  }
+]
