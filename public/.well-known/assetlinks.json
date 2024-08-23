@@ -5,9 +5,189 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.devsig.vigil.pro",
+      "package_name": "com.devsig.audiorecorderstudio",
       "sha256_cert_fingerprints": [
-        "32:E3:4E:C3:49:79:A3:7E:AF:B7:CE:33:29:F3:57:67:A7:68:BC:F8:4F:63:03:C7:CB:36:05:96:E5:5D:E1:8F"
+        "2E:57:37:97:A0:3C:00:62:74:66:52:84:66:FE:A1:57:C4:B0:0F:78:E3:6B:04:2D:2B:F2:EA:FB:76:B5:E4:4D"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.black.video",
+      "sha256_cert_fingerprints": [
+        "CA:A3:53:88:2A:FF:54:21:82:A8:E3:32:79:ED:4A:D6:52:DF:A4:93:B1:4B:BE:21:18:F6:30:61:9C:6D:9C:4A"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.cloudai",
+      "sha256_cert_fingerprints": [
+        "5D:4E:35:7E:DB:DC:11:57:CE:59:5D:10:49:FF:D7:60:7D:3C:B2:4F:69:0F:34:B3:15:14:8C:91:76:56:AE:A4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.cloudauthenticator",
+      "sha256_cert_fingerprints": [
+        "C3:46:C1:1B:8C:39:ED:B1:6A:1E:3F:9E:48:C7:7D:92:0B:B3:C4:5A:D8:F7:B3:D3:B9:C6:59:F8:8A:D0:A8:36"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.gyrocompass",
+      "sha256_cert_fingerprints": [
+        "BA:1A:2C:33:C4:4F:F0:F5:A9:82:3B:58:37:0D:0A:E4:30:72:E6:99:0E:10:E1:4F:34:38:C6:7E:82:F1:36:B0"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.hex",
+      "sha256_cert_fingerprints": [
+        "9A:EE:2B:E9:44:30:C7:38:D2:1F:BF:EA:D1:89:AF:4D:3D:FE:65:66:20:C8:23:7A:40:49:13:DC:1E:61:99:EB"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.internetspeedtest",
+      "sha256_cert_fingerprints": [
+        "9B:BD:BE:BE:B8:74:40:61:37:62:7D:8D:3E:C8:FA:88:1A:E3:B8:78:86:EB:00:67:CD:0F:83:71:66:3E:62:DB"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.first",
+      "sha256_cert_fingerprints": [
+        "7F:05:7A:18:DE:FC:46:C9:98:A0:46:9E:A3:7C:AE:0D:9E:8C:F4:03:B0:C9:D0:4F:5D:C0:F8:64:AE:01:25:7A"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.newsreport",
+      "sha256_cert_fingerprints": [
+        "06:B0:44:A2:FB:22:A4:13:17:52:75:FF:21:9C:6C:5F:2A:EF:D7:89:47:D1:36:9C:63:E0:65:47:8F:22:57:60"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.smr",
+      "sha256_cert_fingerprints": [
+        "0F:40:B3:7D:41:07:64:E0:89:A0:44:7A:FF:AC:86:73:16:E3:96:28:C9:D4:A4:13:3D:05:6F:B0:60:9B:42:63"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.ssr",
+      "sha256_cert_fingerprints": [
+        "5B:7C:0E:FF:59:E9:AC:69:7D:78:62:F4:1E:9D:DA:DE:D7:2B:B0:8A:BD:EB:C8:D1:C7:52:59:5B:0E:39:C2:BA"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.svr.pro",
+      "sha256_cert_fingerprints": [
+        "6C:12:D9:03:96:18:E5:24:09:A4:1E:50:24:14:04:57:46:91:DE:51:DA:E6:AA:CA:20:8A:DE:48:93:6C:79:18"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.svr",
+      "sha256_cert_fingerprints": [
+        "9F:57:4B:07:ED:1C:D9:34:1B:38:74:E0:C9:73:34:53:5D:96:9C:37:4F:94:CD:FE:82:5F:60:2F:96:3A:64:14"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.stacksupport",
+      "sha256_cert_fingerprints": [
+        "44:54:F3:87:C6:1E:14:D4:34:DB:67:4F:27:E0:9F:6B:E0:49:B5:69:A1:E0:5F:32:CF:38:AA:8D:31:72:E1:5D"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.tetrisclassic",
+      "sha256_cert_fingerprints": [
+        "4A:81:C9:D4:9F:97:B0:33:58:82:8A:FB:53:3B:94:37:37:C8:C0:D0:2E:1D:13:B5:12:51:02:D5:8D:23:B8:81"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devsig.trustride",
+      "sha256_cert_fingerprints": [
+        "7D:42:FF:2C:C2:C3:EC:0B:B0:EE:E8:DC:50:64:C0:89:1A:A9:5E:44:0A:6C:42:6F:6E:F1:B8:C0:CA:1D:4A:E8"
       ]
     }
   }
